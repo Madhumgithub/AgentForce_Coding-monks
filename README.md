@@ -49,10 +49,9 @@ AgentForce_Coding-monks/
 ├── app.py                # Main Gradio app
 ├── requirements.txt      # All Python libraries
 ├── README.md             # Documentation
-├── /models               # (Optional) Local models
-├── /sample_contracts     # Example contracts for testing
-├── /utils                # Helper scripts
-└── /reports              # Generated PDF reports
+├── /data                 # Local models
+├── /reports              # Generated reports
+├── /scrpits              # Helper scripts            
 ```
 
 ---
