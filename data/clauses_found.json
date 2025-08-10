@@ -1,0 +1,32 @@
+[
+  {
+    "chunk": "SERVICE AGREEMENT\nThis Service Agreement (the 'Agreement') is made on August 9, 2025, between\nAlphaTech Solutions ('Provider') and BetaCorp Industries ('Client').\n1. Payment Terms\nInvoices must be paid within thirty (30) days of receipt.\n2. Liability\nThe liability of the Provider shall be limited to direct damages not exceeding\nthe total amount paid under this Agreement.\n3. Confidentiality\nBoth parties agree to keep all proprietary information confidential for a period\nof five (5) years from the date of disclosure.\n4. Termination\nEither party may terminate this Agreement with thirty (30) days written notice.\n5. Governing Law\nThis Agreement shall be governed by and construed in accordance with the laws\nof the State of California.",
+    "matches": [
+      {
+        "clause_example": "This agreement may be terminated by either party upon ...",
+        "clause_type": "termination",
+        "score": 0.5695552825927734
+      },
+      {
+        "clause_example": "Invoices must be paid within 45 days",
+        "clause_type": "payment",
+        "score": 0.521206259727478
+      },
+      {
+        "clause_example": "This contract is governed by the laws of ...",
+        "clause_type": "jurisdiction",
+        "score": 0.47502225637435913
+      }
+    ]
+  },
+  {
+    "chunk": "IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.",
+    "matches": [
+      {
+        "clause_example": "This agreement may be terminated by either party upon ...",
+        "clause_type": "termination",
+        "score": 0.5047805309295654
+      }
+    ]
+  }
+]

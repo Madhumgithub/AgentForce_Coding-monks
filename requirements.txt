@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+gradio>=4.44.1
+pdfplumber
+python-docx
+nltk
+pandas
+fpdf

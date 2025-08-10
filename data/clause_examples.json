@@ -1,0 +1,8 @@
+{
+  "liability": ["The liability of the Company shall be limited to ...", "No party will be liable for indirect damages..."],
+  "termination": ["This agreement may be terminated by either party upon ...", "Termination for convenience shall be ..."],
+  "payment": ["Payment terms: net 30 days", "Invoices must be paid within 45 days"],
+  "confidentiality": ["Each party shall keep confidential any information ...", "Confidential Information means ..."],
+  "auto_renewal": ["This agreement will automatically renew unless ...", "Renewal term shall be automatic every year"],
+  "jurisdiction": ["This contract is governed by the laws of ...", "Any disputes will be resolved in the courts of ..."]
+}

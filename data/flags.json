@@ -1,0 +1,32 @@
+[
+  {
+    "id": "payment_terms_missing",
+    "desc": "Payment terms missing",
+    "present": true
+  },
+  {
+    "id": "liability_missing",
+    "desc": "Liability / limitation missing",
+    "present": true
+  },
+  {
+    "id": "auto_renewal",
+    "desc": "Contains auto-renewal",
+    "present": false
+  },
+  {
+    "id": "termination_missing",
+    "desc": "Termination clause missing",
+    "present": true
+  },
+  {
+    "id": "confidentiality_missing",
+    "desc": "Confidentiality / NDA missing",
+    "present": true
+  },
+  {
+    "id": "penalty_clause",
+    "desc": "Penalty or late fee mentioned",
+    "present": false
+  }
+]
