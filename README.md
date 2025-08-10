@@ -77,7 +77,7 @@ AgentForce_Coding-monks/
 ---
 
 ## 🌍 Live Demo
-You can try the app here: [https://huggingface.co/spaces/Madhumgithub/AgentForce_Coding-monks](https://huggingface.co/spaces/Madhumgithub/AgentForce_Coding-monks)
+You can try the app here: [https://huggingface.co/spaces/Madhumita13/agentforce-legal-madhumita](https://huggingface.co/spaces/Madhumita13/agentforce-legal-madhumita)
 
 ---
 
