@@ -51,7 +51,8 @@ AgentForce_Coding-monks/
 ├── README.md             # Documentation
 ├── /data                 # Local models
 ├── /reports              # Generated reports
-├── /scrpits              # Helper scripts            
+├── /scrpits              # Helper scripts 
+├── /sample-contracts     # Sample Contracts to test                
 ```
 
 ---
